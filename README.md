@@ -1,3 +1,11 @@
+## The purpose of this fork:
+
+- The purpose of this fork is to simply nothing more, nothing less than to provide compiled binaries for Windows.
+
+- The goal is for users to quickly access this tool without having to fiddle with compiling it (and, more importantly, having to compile the libraries it depends on - `libpng`, which on it's hand depends on `zlib`).
+
+## The tool:
+
 This is a small tool to bleed the border colors of an image with transparency through the pixels that
 are fully transparent. It's intended to avoid filtering issues in OpenGL applications.
 
@@ -33,6 +41,6 @@ Original image after `alpha-remove`:
 
 ![original-opaque](media/original-opaque.png)
 
-Image after `alpha-bleeding` and `alpha-remove`:
+Image after `alpha-bleeding`, then `alpha-remove`:
 
 ![alpha-bleeding-opaque](media/alpha-bleeding-opaque.png)
