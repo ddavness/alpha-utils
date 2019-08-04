@@ -26,7 +26,7 @@ Just download and use. It's that simple!
 
 ### Building (You'll need Visual Studio with C++ tools):
 
-> I personally do not recommend this approach unless for some reason the program refuses to work. The libraries were built statically (as `.liB` files) instead of dynamic libraries (as `.dll` files)
+> I personally do not recommend this approach unless for some reason the program refuses to work. The libraries were built statically (as `.lib` files) instead of dynamic libraries (as `.dll` files)
 
 1. Grab `libpng` and `zlib` source code, unpack and place both in the same directory;
 
@@ -34,7 +34,9 @@ Just download and use. It's that simple!
 
 3. Open the `.sln` file. Build!
 
-**Note:** You may encounter some errors. Those are related to programs bundled to test the library; *I, davness, was too lazy to fix them - if you can actually fix, file an issue or PR regarding that.*
+- **Note #1:** You may encounter some errors. Those are related to programs bundled to test the library; *I, davness, was too lazy to fix them - if you can actually fix, file an issue or PR regarding that.*
+
+- **Note #2:** For this particular compilation the library versions were `1.6.37` and `1.2.11`, respectively for `libpng` and `zlib`.
 
 ## Example
 
