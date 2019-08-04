@@ -11,7 +11,7 @@ are fully transparent. It's intended to avoid filtering issues in OpenGL applica
 
 ### Installation:
 
-Just download and use. It's that simple!
+Just download from the Releases page and use. It's that simple!
 
 ### Usage:
 
