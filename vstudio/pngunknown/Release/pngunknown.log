@@ -1,0 +1,21 @@
+﻿  pngunknown.c
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\contrib\libtests\pngunknown.c(30,12): warning C4464:  relative include path contains '..'
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_read_row
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_set_keep_unknown_chunks
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_get_text
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_get_interlace_type
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_init_io
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_get_image_width
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_get_error_ptr
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_start_read_image
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_get_image_height
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_set_read_user_chunk_fn
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_read_info
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_destroy_read_struct
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_get_valid
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_get_user_chunk_ptr
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_read_end
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_create_read_struct
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_create_info_struct
+pngunknown.obj : error LNK2001: unresolved external symbol __imp__png_get_unknown_chunks
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\projects\vstudio\Release\pngunknown.exe : fatal error LNK1120: 18 unresolved externals

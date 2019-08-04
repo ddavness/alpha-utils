@@ -1,0 +1,12 @@
+﻿  pngstest.c
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\contrib\libtests\pngstest.c(34,12): warning C4464:  relative include path contains '..'
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\contrib\libtests\pngstest.c(47,10): warning C4464:  relative include path contains '..'
+pngstest.obj : error LNK2001: unresolved external symbol __imp__png_image_write_to_memory
+pngstest.obj : error LNK2001: unresolved external symbol __imp__png_image_write_to_stdio
+pngstest.obj : error LNK2001: unresolved external symbol __imp__png_image_finish_read
+pngstest.obj : error LNK2001: unresolved external symbol __imp__png_image_begin_read_from_file
+pngstest.obj : error LNK2001: unresolved external symbol __imp__png_image_write_to_file
+pngstest.obj : error LNK2001: unresolved external symbol __imp__png_image_begin_read_from_memory
+pngstest.obj : error LNK2001: unresolved external symbol __imp__png_image_free
+pngstest.obj : error LNK2001: unresolved external symbol __imp__png_image_begin_read_from_stdio
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\projects\vstudio\Release\pngstest.exe : fatal error LNK1120: 8 unresolved externals

@@ -3,7 +3,7 @@
 #include <vector>
 #include <stdint.h>
 
-#include "png.h"
+#include "pngio.h"
 
 void alpha_bleeding(unsigned char *image, int width, int height);
 

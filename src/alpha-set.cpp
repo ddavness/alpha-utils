@@ -2,7 +2,7 @@
 #include <fstream>
 #include <cstdlib>
 
-#include "png.h"
+#include "pngio.h"
 
 int main(int argc, char *argv[])
 {

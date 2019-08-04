@@ -1,0 +1,504 @@
+﻿  alpha-bleeding.cpp
+C:\Users\davness\Documents\Git\alpha-utils\src\alpha-bleeding.cpp(158,17): warning C4309:  '=': truncation of constant value
+  pngio.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1375): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1375) : note: index 'best_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1375) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(2240): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(2109) : note: index 'pass' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(2248) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(235): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(211) : note: index 'h' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(235) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(231): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(211) : note: index 'h' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(231) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1357): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1351) : note: index 'count' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1357) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3894): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3866) : note: index 'value' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3894) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3554): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3553) : note: index 'r' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3554) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3529): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3528) : note: index 'r' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3529) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3494): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3493) : note: index 'r' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(3494) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(90): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(84) : note: index 'start' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(90) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1679): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1661) : note: index 'component' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1679) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(115): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(114) : note: index 'req' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(115) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\trees.c(971): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\trees.c(962) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\trees.c(971) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(29): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(26) : note: index 'uval' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(29) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(159): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(143) : note: index 'add_elements' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(159) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(128): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(125) : note: index 'nelements' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(128) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(46): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(45) : note: index 'uval' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(46) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(2102): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(2102) : note: index 'dist' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(2102) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1992): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1992) : note: index 'dist' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1992) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1967): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1961) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1967) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1867): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1867) : note: index 'dist' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1867) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1861): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1856) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1861) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(142): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(142) : note: index 'num_checked' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(142) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'lengthh' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'lengthh' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'lengthw' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'lengthw' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(113): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(105) : note: index 'items' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(113) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'num_bytes' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'num_bytes' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'jmp_buf_size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'jmp_buf_size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'buf_size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'buf_size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(252): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1448) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(252) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1448) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'new_size$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'new_size$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(202): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(794) : note: index 'read_size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(202) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1000): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(770) : note: index 'flush' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(1000) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(966): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(966) : note: index 'beg' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(966) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(944): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(944) : note: index 'beg' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(944) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(922): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(922) : note: index 'beg' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\zlib\deflate.c(922) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(4106): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(4104) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(4106) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(4098): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(4096) : note: index 'bound' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(4098) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'avail' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(191): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(3184) : note: index 'length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(191) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1515): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1506) : note: index 'num_hist' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1515) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(185): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(182) : note: index 'length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(185) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(756): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(633) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(756) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(741): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(633) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(741) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(252): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(633) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(252) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(633) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(679): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(633) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(679) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'buffer_size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'buffer_size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(649): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(633) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(649) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'units_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'purpose_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'purpose_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1549) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(37): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1549) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(37) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1549) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1553): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1549) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1553) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1550): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1549) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1550) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'entry_size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(202): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2912) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(202) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2905): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2902) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2905) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2461): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2441) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2461) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2453): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2441) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2453) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2441): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2402) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2441) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(202): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2402) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(202) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2417): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2402) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2417) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2412): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2402) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2412) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2404): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2402) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2404) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2057): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2048) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2057) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2082): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2074) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2082) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2069): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2048) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2069) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2050): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2048) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2050) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(907): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(26) : note: index 'uval' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(907) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1060): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(961) : note: index 'length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1060) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1656) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(37): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1656) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(37) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1656) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1712): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1656) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1712) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'key_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'key_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1703): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1656) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1703) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1697): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1696) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1697) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1691): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1656) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1691) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1690): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1656) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1690) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1872): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1861) : note: index 'channels' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1679) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1867): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1861) : note: index 'channels' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1679) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1840): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1829) : note: index 'channels' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1840) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1835): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1829) : note: index 'channels' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1835) : note: feeds memory load on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1155) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(37): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1155) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(37) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1170): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1155) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1170) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'name_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(133) : note: index 'name_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(140) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1166): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1155) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1166) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1164): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1155) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1164) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1163): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1155) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1163) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'avail_in' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'avail_in' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1832): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1821) : note: index 'total_len' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1832) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1365): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1357) : note: index 'num_trans' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1365) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1053): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1052) : note: index 'size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1053) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1006): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1005) : note: index 'size' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1006) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1239): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1205) : note: index 'num_unknowns$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1239) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(811): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(797) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(811) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index 'length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1081): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1075) : note: index 'nentries$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngset.c(1081) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1597) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(41) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(37): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1597) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwio.c(37) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1614): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1597) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1614) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1608): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1597) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1608) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1605): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1597) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1605) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1604): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1597) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwutil.c(1604) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(397): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2972) : note: index 'ret' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(397) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(395): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2972) : note: index 'ret' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(395) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(506): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2972) : note: index 'ret' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(506) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(501): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2972) : note: index 'ret' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(501) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2973): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2972) : note: index 'ret' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2973) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1740) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1809): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1740) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1809) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1753): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1740) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1753) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(222): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1740) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(222) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1740) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1742): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1740) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1742) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1733): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1717) : note: index 'entry_start' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(1733) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2818): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2809) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2818) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2673): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2658) : note: index 'length$GSCopy' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2673) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1147): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1130) : note: index 'gAMA' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1147) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(521): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2358) : note: index 'endptr' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(521) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(506): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2358) : note: index 'endptr' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(506) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(501): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2358) : note: index 'endptr' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(501) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(252): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2358) : note: index 'endptr' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(252) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2358) : note: index 'endptr' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(252): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(252) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(239) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2366): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2366) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2309): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2366) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2310): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2366) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2311): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2366) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(521): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(521) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(506): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(506) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(501): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngrutil.c(2302) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngerror.c(501) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2163): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2134) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2163) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2145): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2134) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2145) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2155): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2134) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2155) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2053): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2052) : note: index 'temp' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2053) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2046): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2045) : note: index 'temp' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(2046) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1974): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1973) : note: index 'profile_length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1974) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1996): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1994) : note: index 'profile_length' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\png.c(1996) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(95) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(83) : note: index '' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngmem.c(91) : note: feeds call on this line
+C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1728): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1726) : note: index 'row_end' range checked by comparison on this line
+  C:\Users\davness\Documents\Git\alpha-utils\lpng1637\pngwrite.c(1679) : note: feeds memory load on this line
+  All 665 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  alpha-bleeding.vcxproj -> C:\Users\davness\Documents\Git\alpha-utils\lpng1637\projects\vstudio\Release\alpha-bleeding.exe
