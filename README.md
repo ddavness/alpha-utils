@@ -1,4 +1,4 @@
-## The purpose of this fork:
+## This is from [urraka/alpha-bleeding](https://github.com/urraka/alpha-bleeding).
 
 - The purpose of this fork is to simply nothing more, nothing less than to provide compiled binaries for Windows (as most likely the program was written with Linux/macOS in mind).
 
@@ -14,6 +14,12 @@ are fully transparent. It's intended to avoid filtering issues in OpenGL applica
 ### Installation:
 
 Just download from the Releases page and use. It's that simple!
+
+If you have got [scoop](https://scoop.sh), you can also install this tool to your PATH:
+
+`scoop bucket add rbxdev 'https://github.com/ddavness/scoop-RobloxDev.git'`
+
+`scoop install alpha-utils`
 
 ### Usage:
 
